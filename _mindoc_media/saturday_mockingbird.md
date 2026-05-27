@@ -1,6 +1,6 @@
 ---
 page: source
-title: image_2_from_introduction
+title: image_3_from_introduction
 media_type: image
 
 _title: Saturday Magazine Mockingbird
@@ -17,7 +17,7 @@ credit_(IPTC): Digitization courtesy Google, HathiTrust Digital Library
 date_created_(IPTC):
 
 _path: /assets/img/saturday_mockingbird.jpg 
-order: '02'
+order: '03'
 layout: image_description
 ---
 
