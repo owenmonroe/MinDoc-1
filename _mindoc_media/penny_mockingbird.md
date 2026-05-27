@@ -1,6 +1,6 @@
 ---
 page: source
-title: Image_1_from_Introduction
+title: Image_2_from_Introduction
 media_type: image
 
 _title: Penny Magazine Mockingbird
@@ -17,7 +17,7 @@ credit_(IPTC): Digitization courtesy of Google, HathiTrust Digital Library
 date_created_(IPTC):
 
 _path: /assets/img/penny_mockingbird.jpg 
-order: '01'
+order: '02'
 layout: image_description
 ---
 
