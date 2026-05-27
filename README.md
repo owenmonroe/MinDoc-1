@@ -1,15 +1,14 @@
-# MinDocMini: Create Your Own Digital Documentary Edition
+# MinDoc: Create Your Own Digital Documentary Edition
 
-## What is MinDocMini? (Project Overview)
-MinDocMini is a minimal computing platform for creating your own digital documentary editions. It makes it easy to quickly deploy a simple web page where you can display images and text about your project—no coding experience required. This template is designed for students, archivists, and researchers who want to publish digital collections online.
+## What is MinDoc?
+MinDocMini is a minimal computing platform for creating your own digital documentary editions. It makes it easy to quickly deploy a simple static web page where you can display images and text about your project—no coding experience required. This template is designed for students, archivists, and researchers who want to publish digital editions online quickly and freely.
 
-**This README demonstrates essential README elements** (see the "For Educators" section at the bottom to learn more).
 
 ---
 
-## Getting Started (Installation & Setup)
+## Getting Started
 
-This guide assumes you have **no prior GitHub experience**. If you're already familiar with GitHub, feel free to skip ahead.
+This guide assumes you have **no prior GitHub experience**. If you're already familiar with GitHub, feel free to skip ahead. Typical technical information will be found below.
 
 ### Step 1: Create a GitHub Account
 Sign up for a free GitHub account at [github.com](https://github.com) by selecting the **Sign Up** button at the top of the page.
@@ -23,10 +22,10 @@ Sign up for a free GitHub account at [github.com](https://github.com) by selecti
 3. Click it and select **"Create a new repository"**
 
 ### Step 3: Name Your Repository
-Choose a simple, descriptive name for your repository (e.g., `my-digital-archive`, `history-project`, `photo-collection`). A clear name helps others understand what your project contains.
+Choose a simple, descriptive name for your repository. The name you choose will become part of your website's URL so you might want to use a version of your publication's title. (e.g., `the-correspondance-of-george-washington-yyyy-yyyy`, `The-Epistolary-Presidency`, `scenes-from-mount-vernon`). A clear name helps others understand what your project contains. Repository names have some restrictions that might prevent you from using your publication's full title or using the exact title. It is possible to change the repository name later. 
 
 ### Step 4: Click "Create Repository"
-You should now have your own copy of MinDocMini attached to your GitHub account. You'll see a screen like this:
+You should now have your own copy of MinDoc attached to your GitHub account. You'll see a screen like this:
 
 <img width="356" height="336" alt="Newly created repository" src="https://github.com/user-attachments/assets/d8e095ca-4534-4730-82e2-0e467fc3ec93" />
 
@@ -40,7 +39,7 @@ You should now have your own copy of MinDocMini attached to your GitHub account.
 
 ---
 
-## How to Use MinDocMini (Usage & Examples)
+## How to Use MinDocMini
 
 ### Edit Your Site Title and Description
 **File:** `_config.yml`
@@ -50,6 +49,7 @@ Open this file and update:
 title: Your Document Title
 description: by Your Name
 ```
+These will modify those fields on your web page.
 
 ### Add Your Main Content
 **File:** `index.markdown`
@@ -62,7 +62,7 @@ This file contains all the text for your website. Use standard Markdown formatti
 
 Example:
 ```markdown
-# My Digital Archive
+# My Digital Edition
 
 ## Collection Overview
 This collection includes photographs and documents from...
